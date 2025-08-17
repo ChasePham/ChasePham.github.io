@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/PortoflioWebsite/static/css/main.cb3cf381.css",
-    "main.js": "/PortoflioWebsite/static/js/main.d49844b4.js",
-    "static/js/453.96453769.chunk.js": "/PortoflioWebsite/static/js/453.96453769.chunk.js",
-    "static/media/dodgers.png": "/PortoflioWebsite/static/media/dodgers.163b6c036be8c139c0fb.png",
-    "static/media/nyc.png": "/PortoflioWebsite/static/media/nyc.e88b878790a082785bfa.png",
-    "static/media/asap.png": "/PortoflioWebsite/static/media/asap.d514bda41076d7607161.png",
-    "static/media/griffith.png": "/PortoflioWebsite/static/media/griffith.2874496b2b58952d4a07.png",
-    "static/media/hike.jpg": "/PortoflioWebsite/static/media/hike.9e3aad17f1cc9d74e147.jpg",
-    "static/media/beyond.jpg": "/PortoflioWebsite/static/media/beyond.cf1996c3838dee6112e2.jpg",
-    "static/media/snowboard.JPG": "/PortoflioWebsite/static/media/snowboard.f2f2cb399c3bae7e1325.JPG",
-    "static/media/miami.jpg": "/PortoflioWebsite/static/media/miami.81d5c5537777ddacad3e.jpg",
-    "static/media/boilerroom.jpg": "/PortoflioWebsite/static/media/boilerroom.afef8691dd2178dd7303.jpg",
-    "static/media/lost.png": "/PortoflioWebsite/static/media/lost.63139578a6e5542d6fd4.png",
-    "static/media/gradimg.png": "/PortoflioWebsite/static/media/gradimg.cc9632ad24059e810bce.png",
-    "static/media/chasepham_resume.pdf": "/PortoflioWebsite/static/media/chasepham_resume.2fdaac5b151eef4f9d67.pdf",
-    "static/media/texas.png": "/PortoflioWebsite/static/media/texas.95eec10df9b7c354fa85.png",
-    "static/media/capitalone.png": "/PortoflioWebsite/static/media/capitalone.4affbb8ab0810884d06d.png",
-    "index.html": "/PortoflioWebsite/index.html",
-    "main.cb3cf381.css.map": "/PortoflioWebsite/static/css/main.cb3cf381.css.map",
-    "main.d49844b4.js.map": "/PortoflioWebsite/static/js/main.d49844b4.js.map",
-    "453.96453769.chunk.js.map": "/PortoflioWebsite/static/js/453.96453769.chunk.js.map"
+    "main.css": "/PortfolioWebsite/static/css/main.cb3cf381.css",
+    "main.js": "/PortfolioWebsite/static/js/main.c5ac14db.js",
+    "static/js/453.96453769.chunk.js": "/PortfolioWebsite/static/js/453.96453769.chunk.js",
+    "static/media/dodgers.png": "/PortfolioWebsite/static/media/dodgers.163b6c036be8c139c0fb.png",
+    "static/media/nyc.png": "/PortfolioWebsite/static/media/nyc.e88b878790a082785bfa.png",
+    "static/media/asap.png": "/PortfolioWebsite/static/media/asap.d514bda41076d7607161.png",
+    "static/media/griffith.png": "/PortfolioWebsite/static/media/griffith.2874496b2b58952d4a07.png",
+    "static/media/hike.jpg": "/PortfolioWebsite/static/media/hike.9e3aad17f1cc9d74e147.jpg",
+    "static/media/beyond.jpg": "/PortfolioWebsite/static/media/beyond.cf1996c3838dee6112e2.jpg",
+    "static/media/snowboard.JPG": "/PortfolioWebsite/static/media/snowboard.f2f2cb399c3bae7e1325.JPG",
+    "static/media/miami.jpg": "/PortfolioWebsite/static/media/miami.81d5c5537777ddacad3e.jpg",
+    "static/media/boilerroom.jpg": "/PortfolioWebsite/static/media/boilerroom.afef8691dd2178dd7303.jpg",
+    "static/media/lost.png": "/PortfolioWebsite/static/media/lost.63139578a6e5542d6fd4.png",
+    "static/media/gradimg.png": "/PortfolioWebsite/static/media/gradimg.cc9632ad24059e810bce.png",
+    "static/media/chasepham_resume.pdf": "/PortfolioWebsite/static/media/chasepham_resume.2fdaac5b151eef4f9d67.pdf",
+    "static/media/texas.png": "/PortfolioWebsite/static/media/texas.95eec10df9b7c354fa85.png",
+    "static/media/capitalone.png": "/PortfolioWebsite/static/media/capitalone.4affbb8ab0810884d06d.png",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.cb3cf381.css.map": "/PortfolioWebsite/static/css/main.cb3cf381.css.map",
+    "main.c5ac14db.js.map": "/PortfolioWebsite/static/js/main.c5ac14db.js.map",
+    "453.96453769.chunk.js.map": "/PortfolioWebsite/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb3cf381.css",
-    "static/js/main.d49844b4.js"
+    "static/js/main.c5ac14db.js"
   ]
 }
